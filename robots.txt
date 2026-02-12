@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bdggame.c/sitemap.xml
+Sitemap: https://betongame-bangladesh.games/sitemap.xml
